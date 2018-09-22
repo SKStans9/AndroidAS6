@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomOnOffButton">
+        <attr name="onTextColor" format="color"/>
+        <attr name="offTextColor" format="color"/>
+        <attr name="onBgColor" format="color"/>
+        <attr name="offBgColor" format="color"/>
+        <attr name="disTextColor" format="color"/>
+        <attr name="disBgColor" format="color"/>
+    </declare-styleable>
+</resources>
